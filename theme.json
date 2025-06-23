@@ -1,6 +1,6 @@
 {
-    "name": "Neon True Blue on Pure Black",
-    "description": "Light neon true blue accents on fully black background for Bound iOS.",
+    "name": "AMOLED True Blue",
+    "description": "Pure black AMOLED background with light true blue highlights for Bound iOS.",
     "authors": [
         {
             "name": "ChatGPT"
@@ -11,26 +11,26 @@
         "BACKGROUND_SECONDARY": ["#000000", "#000000", "#000000"],
         "BACKGROUND_TERTIARY": ["#000000", "#000000", "#000000"],
         "BACKGROUND_FLOATING": ["#000000", "#000000", "#000000"],
-        "BACKGROUND_ACCENT": ["#00B0FF", "#00B0FF", "#00B0FF"],
+        "BACKGROUND_ACCENT": ["#3366FF", "#3366FF", "#3366FF"],
         "TEXT_NORMAL": ["#E0E0E0", "#E0E0E0", "#E0E0E0"],
         "TEXT_MUTED": ["#AAAAAA", "#AAAAAA", "#AAAAAA"],
         "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
         "MENTION_FOREGROUND": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
-        "MENTION_BACKGROUND": ["#00B0FF33", "#00B0FF33", "#00B0FF33"],
-        "INTERACTIVE_NORMAL": ["#00B0FF", "#00B0FF", "#00B0FF"],
-        "INTERACTIVE_HOVER": ["#0090FF", "#0090FF", "#0090FF"],
-        "INTERACTIVE_ACTIVE": ["#007BFF", "#007BFF", "#007BFF"],
+        "MENTION_BACKGROUND": ["#3366FF33", "#3366FF33", "#3366FF33"],
+        "INTERACTIVE_NORMAL": ["#3366FF", "#3366FF", "#3366FF"],
+        "INTERACTIVE_HOVER": ["#6699FF", "#6699FF", "#6699FF"],
+        "INTERACTIVE_ACTIVE": ["#0033CC", "#0033CC", "#0033CC"],
         "CHANNELS_DEFAULT": ["#AAAAAA", "#AAAAAA", "#AAAAAA"],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#001133", "#001133", "#001133"],
-        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": ["#0055AA", "#0055AA", "#0055AA"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000", "#000000", "#000000"],
+        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": ["#3366FF", "#3366FF", "#3366FF"],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": ["#000000", "#000000", "#000000"],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": ["#000000", "#000000", "#000000"]
     },
     "rawColors": {
-        "PRIMARY_100": "#00B0FF",
-        "PRIMARY_300": "#0090FF",
-        "PRIMARY_500": "#007BFF",
-        "PRIMARY_700": "#0050AA",
+        "PRIMARY_100": "#6699FF",
+        "PRIMARY_300": "#3366FF",
+        "PRIMARY_500": "#0033CC",
+        "PRIMARY_700": "#002299",
         "BLACK_500": "#000000",
         "WHITE_500": "#FFFFFF"
     },
