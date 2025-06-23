@@ -1,0 +1,46 @@
+{
+    "name": "Neon Blue on Black",
+    "description": "Neon blue accents on a deep black background for Bound iOS.",
+    "authors": [
+        {
+            "name": "ChatGPT"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": ["#000000", "#000000", "#000000"],
+        "BACKGROUND_SECONDARY": ["#0a0a0a", "#0a0a0a", "#0a0a0a"],
+        "BACKGROUND_TERTIARY": ["#121212", "#121212", "#121212"],
+        "BACKGROUND_FLOATING": ["#1a1a1a", "#1a1a1a", "#1a1a1a"],
+        "BACKGROUND_ACCENT": ["#00FFFF", "#00FFFF", "#00FFFF"],
+        "TEXT_NORMAL": ["#E0E0E0", "#E0E0E0", "#E0E0E0"],
+        "TEXT_MUTED": ["#AAAAAA", "#AAAAAA", "#AAAAAA"],
+        "HEADER_PRIMARY": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "MENTION_FOREGROUND": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+        "MENTION_BACKGROUND": ["#00FFFF33", "#00FFFF33", "#00FFFF33"],
+        "INTERACTIVE_NORMAL": ["#00FFFF", "#00FFFF", "#00FFFF"],
+        "INTERACTIVE_HOVER": ["#00CED1", "#00CED1", "#00CED1"],
+        "INTERACTIVE_ACTIVE": ["#00BFFF", "#00BFFF", "#00BFFF"],
+        "CHANNELS_DEFAULT": ["#AAAAAA", "#AAAAAA", "#AAAAAA"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#002244", "#002244", "#002244"],
+        "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": ["#005577", "#005577", "#005577"],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": ["#000000", "#000000", "#000000"],
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": ["#000000", "#000000", "#000000"]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#00FFFF",
+        "PRIMARY_300": "#00CED1",
+        "PRIMARY_500": "#00BFFF",
+        "PRIMARY_700": "#0099CC",
+        "BLACK_500": "#000000",
+        "WHITE_500": "#FFFFFF"
+    },
+    "background": {
+        "url": "",
+        "alpha": 1
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true
+    },
+    "spec": 2
+}
