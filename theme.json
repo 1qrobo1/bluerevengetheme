@@ -1,6 +1,6 @@
 {
-    "name": "AMOLED True Blue",
-    "description": "Pure black AMOLED background with light true blue highlights for Bound iOS.",
+    "name": "AMOLED True Blue v2",
+    "description": "Perfect full black AMOLED background with true light blue accents for Bound iOS.",
     "authors": [
         {
             "name": "ChatGPT"
@@ -24,7 +24,13 @@
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000", "#000000", "#000000"],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": ["#3366FF", "#3366FF", "#3366FF"],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": ["#000000", "#000000", "#000000"],
-        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": ["#000000", "#000000", "#000000"]
+        "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": ["#000000", "#000000", "#000000"],
+        "CARD_PRIMARY_BG": ["#000000", "#000000", "#000000"],
+        "CARD_SECONDARY_BG": ["#000000", "#000000", "#000000"],
+        "PANEL_BG": ["#000000", "#000000", "#000000"],
+        "BG_BASE_PRIMARY": ["#000000", "#000000", "#000000"],
+        "BG_SURFACE_OVERLAY_TMP": ["#000000", "#000000", "#000000"],
+        "EMBED_BACKGROUND": ["#000000", "#000000", "#000000"]
     },
     "rawColors": {
         "PRIMARY_100": "#6699FF",
@@ -32,6 +38,18 @@
         "PRIMARY_500": "#0033CC",
         "PRIMARY_700": "#002299",
         "BLACK_500": "#000000",
+        "BLACK_530": "#000000",
+        "BLACK_560": "#000000",
+        "BLACK_600": "#000000",
+        "BLACK_630": "#000000",
+        "BLACK_660": "#000000",
+        "BLACK_700": "#000000",
+        "BLACK_730": "#000000",
+        "BLACK_760": "#000000",
+        "BLACK_800": "#000000",
+        "BLACK_830": "#000000",
+        "BLACK_860": "#000000",
+        "BLACK_900": "#000000",
         "WHITE_500": "#FFFFFF"
     },
     "background": {
